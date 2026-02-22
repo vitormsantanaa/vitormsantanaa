@@ -1,8 +1,6 @@
-# 👋 Fala aí, eu sou o Vitu
+# 👋 Sou o Vitor
 
-💻 Estudante de Desenvolvimento Web  
-🚀 Focado em Vue.js, JavaScript e projetos criativos  
-🎮 Gamer nas horas vagas  
+💻 Estudante de programação no IFC - Campus Araquari 
 
 ---
 
