@@ -12,3 +12,4 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ---
+https://readme-typing-svg.herokuapp.com
