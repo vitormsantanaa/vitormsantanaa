@@ -1,6 +1,7 @@
-# 👋 Sou o Vitor
+# Olá, eu sou o Vitor
 
 💻 Estudante de programação no IFC - Campus Araquari 
+
 
 ---
 
