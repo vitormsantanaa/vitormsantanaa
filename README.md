@@ -1,16 +1,28 @@
-# Olá, eu sou o Vitor
+# Vitor Manoel Silva Santana
+ 
+Estudo no **Instituto Federal Catarinense – Campus Araquari**, no curso técnico em Informática para Internet integrado ao ensino médio.
 
-💻 Estudante de programação no IFC - Campus Araquari 
+---
+
+## 📚 Linguagens
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+</div>
+
+---
+
+## 📊 Estatísticas
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vitormanoelssantana&show_icons=true&theme=dark&hide=stars&count_private=true)
 
 
 ---
 
-## 🛠 Tecnologias 
+## 💡 Utilização das linguagens 
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-
----
-
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vitormanoelssantana&layout=compact&theme=dark)
