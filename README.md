@@ -11,6 +11,6 @@ Estudo no **Instituto Federal Catarinense – Campus Araquari**, no curso técni
 
 ## 📊 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vitormanoelssantana&show_icons=true&theme=dark&hide=stars&count_private=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vitormsantanaa&show_icons=true&theme=dark&hide=stars&count_private=true)
 
 ---
