@@ -3,9 +3,31 @@
 Estudo no **Instituto Federal Catarinense – Campus Araquari**, no curso técnico em Informática para Internet integrado ao ensino médio.
 
 ---
-<td style="border: 1px solid #ffffff40; padding: 5px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitormsantanaa&theme=jolly" width="300px" height="150px"/>
-</td>
+
+<div align="center">
+  <table style="border-collapse: collapse; border: 1px solid #ffffff40;">
+    <tr>
+      <td style="border: 1px solid #ffffff40; padding: 5px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitoriadesouza&theme=jolly" width="300px" height="150px"/>
+      </td>
+      <td style="border: 1px solid #ffffff40; padding: 5px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitoriadesouza&theme=jolly" width="300px" height="150px"/>
+      </td>
+      <td style="border: 1px solid #ffffff40; padding: 5px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vitoriadesouza&theme=jolly&utcOffset=8" width="300px" height="150px" style="object-fit: cover;"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="border: 1px solid #ffffff40; padding: 5px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitoriadesouza&theme=jolly" width="610px" height="180px"/>
+      </td>
+      <td style="border: 1px solid #ffffff40; padding: 5px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=vitoriadesouza&theme=jolly&hide_border=false&date_format=j%20M%5B%20Y%5D" width="300px" height="180px"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
