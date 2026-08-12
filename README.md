@@ -18,8 +18,6 @@ Estudo no **Instituto Federal Catarinense – Campus Araquari**, no curso técni
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitormsantanaa&theme=jolly" width="300px" height="150px"/>
       </td>
     </tr>
-    <tr>
-    </tr>
   </table>
 </div>
 
