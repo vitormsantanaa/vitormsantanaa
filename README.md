@@ -1,7 +1,7 @@
 <h1 align="center">Vitor Manoel Silva Santana</h1>
 
 <p align="center">
-  Desenvolvedor em formação • Back-end & Web Development
+  Desenvolvedor em formação • Full Stack Developer
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 Estudante do curso técnico em **Informática para Internet integrado ao Ensino Médio** no **Instituto Federal Catarinense — Campus Araquari**.
 
-Tenho foco em desenvolvimento **back-end** e aplicações web, trabalhando principalmente com **Python, Django, Django REST Framework e Vue.js**. Busco transformar projetos acadêmicos e pessoais em aplicações bem estruturadas, funcionais e úteis.
+Atuo no desenvolvimento **full stack** de aplicações web, trabalhando principalmente com **Python, Django, Django REST Framework, JavaScript e Vue.js**, com maior afinidade pelo back-end. Busco transformar projetos acadêmicos e pessoais em aplicações bem estruturadas, funcionais e úteis.
 
 ## Tecnologias
 
@@ -28,8 +28,7 @@ Tenho foco em desenvolvimento **back-end** e aplicações web, trabalhando princ
 
 ## Projetos
 
-- **OPES** — aplicação de controle financeiro e Open Banking, desenvolvida com Vue.js e Django REST Framework.
-- **Lavação do Barba** — sistema web para gerenciamento de serviços de lavação de veículos.
+- **OPES** — aplicação de controle financeiro, desenvolvida com Vue.js e Django REST Framework.
 - **Projetos acadêmicos** — aplicações desenvolvidas durante o curso de Informática para Internet, explorando Django, Vue.js e desenvolvimento web.
 
 ## GitHub
