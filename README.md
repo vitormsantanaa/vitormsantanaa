@@ -1,21 +1,46 @@
-# Vitor Manoel Silva Santana
- 
-Estudo no **Instituto Federal Catarinense – Campus Araquari**, no curso técnico em Informática para Internet integrado ao ensino médio.
+<h1 align="center">Vitor Manoel Silva Santana</h1>
+
+<p align="center">
+  Desenvolvedor em formação • Back-end & Web Development
+</p>
+
+<p align="center">
+  <a href="https://github.com/vitormsantanaa">
+    <img src="https://img.shields.io/badge/GitHub-vitormsantanaa-181717?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+</p>
+
+## Sobre mim
+
+Estudante do curso técnico em **Informática para Internet integrado ao Ensino Médio** no **Instituto Federal Catarinense — Campus Araquari**.
+
+Tenho foco em desenvolvimento **back-end** e aplicações web, trabalhando principalmente com **Python, Django, Django REST Framework e Vue.js**. Busco transformar projetos acadêmicos e pessoais em aplicações bem estruturadas, funcionais e úteis.
+
+## Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,js,vue,html,css,git,github,vscode" alt="Tecnologias" />
+</p>
+
+**Back-end:** Python • Django • Django REST Framework • APIs REST  
+**Front-end:** JavaScript • Vue.js • HTML • CSS  
+**Ferramentas:** Git • GitHub • VS Code
+
+## Projetos
+
+- **OPES** — aplicação de controle financeiro e Open Banking, desenvolvida com Vue.js e Django REST Framework.
+- **Lavação do Barba** — sistema web para gerenciamento de serviços de lavação de veículos.
+- **Projetos acadêmicos** — aplicações desenvolvidas durante o curso de Informática para Internet, explorando Django, Vue.js e desenvolvimento web.
+
+## GitHub
+
+<p align="center">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitormsantanaa&theme=github_dark" alt="Estatísticas do GitHub" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitormsantanaa&theme=github_dark" alt="Linguagens por repositório" />
+</p>
 
 ---
 
-<div align="center">
-  <table style="border-collapse: collapse; border: 1px solid #ffffff40;">
-    <tr>
-      <td style="border: 1px solid #ffffff40; padding: 5px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitormsantanaa&theme=jolly" width="300px" height="150px"/>
-      </td>
-      <td style="border: 1px solid #ffffff40; padding: 5px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitormsantanaa&theme=jolly" width="300px" height="150px"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
----
+<p align="center">
+  Sempre aprendendo, construindo e melhorando um projeto de cada vez.
+</p>
