@@ -34,7 +34,7 @@ Atuo no desenvolvimento **full stack** de aplicações web, trabalhando principa
 ## GitHub
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/vitormsantanaa?label=Seguidores&style=flat-square&color=555555" alt="Seguidores" />
+  <img src="https://img.shields.io/github/followers/vitormsantanaa?label=Seguidores&style=flat-square&color=555555" />
 </p>
 
 <p align="center">
