@@ -42,9 +42,6 @@ Atuo no desenvolvimento **full stack** de aplicações web, trabalhando principa
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitormsantanaa&theme=github_dark" alt="Linguagens por repositório" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitormsantanaa&theme=github_dark" alt="Resumo de contribuições" width="95%" />
-</p>
 
 ---
 
