@@ -34,8 +34,17 @@ Atuo no desenvolvimento **full stack** de aplicações web, trabalhando principa
 ## GitHub
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vitormsantanaa&style=flat-square&color=555555" alt="Visualizações do perfil" />
+  <img src="https://img.shields.io/github/followers/vitormsantanaa?label=Seguidores&style=flat-square&color=555555" alt="Seguidores" />
+</p>
+
+<p align="center">
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitormsantanaa&theme=github_dark" alt="Estatísticas do GitHub" />
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitormsantanaa&theme=github_dark" alt="Linguagens por repositório" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitormsantanaa&theme=github_dark" alt="Resumo de contribuições" width="95%" />
 </p>
 
 ---
