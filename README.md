@@ -39,10 +39,6 @@ Aplicação web de organização financeira, com autenticação, acompanhamento 
 **Momentum — Hackathon 2026**  
 Projeto colaborativo de gestão de projetos e tarefas, com funcionalidades como organização de atividades, dependências, mural de ideias e integrações. **3º lugar no hackathon.**
 
-**Livraria — API com Django REST Framework**  
-Projeto acadêmico de API REST com gestão de livros, compras, estoque, permissões e validações de regras de negócio.  
-[Ver repositório](https://github.com/vitormsantanaa/livraria_3info3_2)
-
 ### GitHub
 
 <p align="center">
