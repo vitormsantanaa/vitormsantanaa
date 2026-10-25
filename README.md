@@ -18,7 +18,6 @@ Sou estudante do **Técnico em Informática para Internet** no **Instituto Feder
 
 Gosto de construir aplicações web de ponta a ponta, com atenção especial à **arquitetura de back-end, desenvolvimento de APIs REST e integração com o front-end**. No dia a dia, trabalho principalmente com **Python, Django REST Framework, JavaScript e Vue.js**.
 
-🏆 **3º lugar em um Hackathon em 2026**, desenvolvendo uma solução colaborativa em equipe.
 
 ### Tecnologias que utilizo
 
