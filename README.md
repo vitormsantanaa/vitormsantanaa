@@ -21,6 +21,10 @@ Gosto de construir aplicações web de ponta a ponta, com atenção especial à 
 
 ### Tecnologias que utilizo
 
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,js,vue,html,css,git,github,vscode" alt="Logos das tecnologias: Python, Django, JavaScript, Vue.js, HTML, CSS, Git, GitHub e VS Code" />
+</p>
+
 **Back-end**  
 Python · Django · Django REST Framework · APIs REST · JWT · SQLite
 
