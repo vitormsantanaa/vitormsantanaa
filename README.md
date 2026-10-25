@@ -1,50 +1,57 @@
-<h1 align="center">Vitor Manoel Silva Santana</h1>
+<h1 align="center">Olá, eu sou o Vitor! 👋</h1>
 
 <p align="center">
-  Desenvolvedor em formação • Full Stack Developer
-</p>
-
-<p align="center">
-  <a href="https://github.com/vitormsantanaa">
-    <img src="https://img.shields.io/badge/GitHub-vitormsantanaa-181717?style=flat-square&logo=github" alt="GitHub" />
-  </a>
-</p>
-
-## Sobre mim
-
-Estudante do curso técnico em **Informática para Internet integrado ao Ensino Médio** no **Instituto Federal Catarinense — Campus Araquari**.
-
-Atuo no desenvolvimento **full stack** de aplicações web, trabalhando principalmente com **Python, Django, Django REST Framework, JavaScript e Vue.js**, com maior afinidade pelo back-end. Busco transformar projetos acadêmicos e pessoais em aplicações bem estruturadas, funcionais e úteis.
-
-## Tecnologias
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,js,vue,html,css,git,github,vscode" alt="Tecnologias" />
-</p>
-
-**Back-end:** Python • Django • Django REST Framework • APIs REST  
-**Front-end:** JavaScript • Vue.js • HTML • CSS  
-**Ferramentas:** Git • GitHub • VS Code
-
-## Projetos
-
-- **OPES** — aplicação de controle financeiro, desenvolvida com Vue.js e Django REST Framework.
-- **Projetos acadêmicos** — aplicações desenvolvidas durante o curso de Informática para Internet, explorando Django, Vue.js e desenvolvimento web.
-
-## GitHub
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/vitormsantanaa?label=Seguidores&style=flat-square&color=555555" />
+  Desenvolvedor Full Stack em formação · Foco em Back-end
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitormsantanaa&theme=github_dark" alt="Estatísticas do GitHub" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitormsantanaa&theme=github_dark" alt="Linguagens por repositório" />
+  <a href="https://www.linkedin.com/in/vitor-manoel-silva-santana-65a0a22ba/">LinkedIn</a>
+  ·
+  <a href="https://github.com/vitormsantanaa?tab=repositories">Meus repositórios</a>
 </p>
 
+---
+
+### Sobre mim
+
+Sou estudante do **Técnico em Informática para Internet** no **Instituto Federal Catarinense (IFC) — Campus Araquari**.
+
+Gosto de construir aplicações web de ponta a ponta, com atenção especial à **arquitetura de back-end, desenvolvimento de APIs REST e integração com o front-end**. No dia a dia, trabalho principalmente com **Python, Django REST Framework, JavaScript e Vue.js**.
+
+🏆 **3º lugar em um Hackathon em 2026**, desenvolvendo uma solução colaborativa em equipe.
+
+### Tecnologias que utilizo
+
+**Back-end**  
+Python · Django · Django REST Framework · APIs REST · JWT · SQLite
+
+**Front-end**  
+JavaScript · Vue.js · HTML · CSS · Axios
+
+**Ferramentas e fluxo de trabalho**  
+Git · GitHub · GitHub Projects · VS Code · Postman
+
+### Projetos em destaque
+
+**OPES — Controle financeiro**  
+Aplicação web de organização financeira, com autenticação, acompanhamento de metas e integração entre Vue.js e Django REST Framework.
+
+**Momentum — Hackathon 2026**  
+Projeto colaborativo de gestão de projetos e tarefas, com funcionalidades como organização de atividades, dependências, mural de ideias e integrações. **3º lugar no hackathon.**
+
+**Livraria — API com Django REST Framework**  
+Projeto acadêmico de API REST com gestão de livros, compras, estoque, permissões e validações de regras de negócio.  
+[Ver repositório](https://github.com/vitormsantanaa/livraria_3info3_2)
+
+### GitHub
+
+<p align="center">
+  <img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitormsantanaa&theme=github_dark" alt="Resumo da atividade no GitHub" />
+  <img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitormsantanaa&theme=github_dark" alt="Linguagens nos repositórios" />
+</p>
 
 ---
 
 <p align="center">
-  Sempre aprendendo, construindo e melhorando um projeto de cada vez.
+  <em>Aprendendo na prática, escrevendo código e evoluindo a cada projeto.</em>
 </p>
