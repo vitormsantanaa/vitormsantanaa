@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vitor-manoel-silva-santana-65a0a22ba/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/vitor-manoel-silva-santana-65a0a22ba/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   ·
   <a href="https://github.com/vitormsantanaa?tab=repositories">Meus repositórios</a>
 </p>
@@ -46,8 +46,3 @@ Projeto colaborativo de gestão de projetos e tarefas, com funcionalidades como 
   <img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitormsantanaa&theme=github_dark" alt="Linguagens nos repositórios" />
 </p>
 
----
-
-<p align="center">
-  <em>Aprendendo na prática, escrevendo código e evoluindo a cada projeto.</em>
-</p>
